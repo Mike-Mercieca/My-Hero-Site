@@ -23,18 +23,21 @@ img {
 
 #basic-info {
     background-color: #c51f5d;
-    font-size: 30px;
+    font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin: 0%;
-    padding: 0%;
+    margin: 30px;
+    padding: 10px;
+    border-radius: 25px;
 
 }
 
 #further-info {
     background-color: #ffffff;
-    font-size: 30px;
+    font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin:0%;
-    padding:0%;
-
+    padding: 10px;
+    border-radius : 25px;
 }
+
+
